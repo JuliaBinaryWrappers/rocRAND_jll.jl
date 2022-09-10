@@ -1,20 +1,20 @@
 [[rocRAND]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b85cd118b9a6aa819a12dbec141e40b013a8a237"
+git-tree-sha1 = "57eb17650244778739798538c364afd0e25d8ed5"
 libc = "glibc"
 os = "linux"
 
     [[rocRAND.download]]
-    sha256 = "6d317f45fa68ad151f4415e539e3208c4f120a91f489f0c272ded920d22c073e"
-    url = "https://github.com/JuliaBinaryWrappers/rocRAND_jll.jl/releases/download/rocRAND-v4.2.0+1/rocRAND.v4.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "26a5e4d942c5b61467ff3ddfe0aee568aa58be9c04c9169c8cfd12b7977e6849"
+    url = "https://github.com/JuliaBinaryWrappers/rocRAND_jll.jl/releases/download/rocRAND-v4.5.2+0/rocRAND.v4.5.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[rocRAND]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37f83d6d80b107e8984a45dd26db39603b3ae708"
+git-tree-sha1 = "17aa2f6f062ff068c7480913f2c227d3fed83819"
 libc = "musl"
 os = "linux"
 
     [[rocRAND.download]]
-    sha256 = "16ad27ec9fd453d6bbd07014a01db003bcfacfd479d163d50d5e78c204b1bf1e"
-    url = "https://github.com/JuliaBinaryWrappers/rocRAND_jll.jl/releases/download/rocRAND-v4.2.0+1/rocRAND.v4.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "d82611fe9d6cc85f595a858c6e9769af0201b677ab32cef5b6b653ca8242ead3"
+    url = "https://github.com/JuliaBinaryWrappers/rocRAND_jll.jl/releases/download/rocRAND-v4.5.2+0/rocRAND.v4.5.2.x86_64-linux-musl-cxx11.tar.gz"
